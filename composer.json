@@ -2,7 +2,7 @@
     "name": "elkuku/sf-startstop",
     "description": "Some scripts to control a Symfony/Docker dev environment.",
     "type": "symfony-bundle",
-    "license": "WTFPL",
+    "license": "MIT",
     "authors": [
         {
             "name": "Nikolai Plath",
