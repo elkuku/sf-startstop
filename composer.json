@@ -1,0 +1,13 @@
+{
+    "name": "elkuku/sf-startstop",
+    "description": "Some scripts to control a Symfony/Docker dev environment.",
+    "type": "symfony-bundle",
+    "license": "WTFPL",
+    "authors": [
+        {
+            "name": "Nikolai Plath",
+            "email": "der.el.kuku@gmail.com"
+        }
+    ],
+    "require": {}
+}
