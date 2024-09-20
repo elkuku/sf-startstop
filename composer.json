@@ -3,6 +3,7 @@
     "description": "Some scripts to control a Symfony/Docker dev environment.",
     "type": "symfony-bundle",
     "license": "MIT",
+    "bin": ["bin/start", "bin/stop", "bin/install", "bin/functions.sh"],
     "authors": [
         {
             "name": "Nikolai Plath",
